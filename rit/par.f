@@ -30,7 +30,8 @@ c
       parameter (nproc=1)
 c
 c     Number of threads (OpenMP)
-c
+cls
+
       parameter (nthread=1)
 c
 c     Statistics

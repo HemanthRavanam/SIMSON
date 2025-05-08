@@ -31,7 +31,7 @@ c
 c
 c     Number of threads (OpenMP)
 c
-      parameter (nthread=8)
+      parameter (nthread=6)
 c
 c     Statistics
 c
